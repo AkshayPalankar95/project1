@@ -1,3 +1,3 @@
 # New Project
 
-This is the new project created from local
+This is the new project created from local. Welcome!
